@@ -45,7 +45,3 @@ Steps to Clone:-
  }
  ```
  5. Run the app using cmd **flask run**
- 
- 
- 
- #This site consists of login/signup and contact us page which is running on flask and the steps to run this is described below :
