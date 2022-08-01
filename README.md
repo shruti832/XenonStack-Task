@@ -1,11 +1,9 @@
-# flask-blog
-Hey readers this is my first website using **flask**, you can clone it to view the site. It is fully functional and customizable according to your requirements. Hope you like this,
-if you found any bug please let me know, or you can do pull request. I will be happy to learn new things from you.
+# XenonStack Task
 
-The template of wesite was taken from bootstrap and code was learnt from different yt channels to give it a better look and automated.
+#This site consists of login/signup and contact us page which is hosted using flask and the steps to run this is described below :
 
 Steps to Clone:-
-1. In your cmd type- **git clone https://github.com/thesilentcoderr/flask-blog.git**
+1. In your cmd type- **git clone https://github.com/shruti832/XenonStack-Task**
 2. In same folder use create a database named **flask_blog** and use the cmd **mysql -u [user] -p [database_name] < flask_blog.sql**
 3. Install some python libraries with below commands:
    - pip install Flask
@@ -48,6 +46,6 @@ Steps to Clone:-
  ```
  5. Run the app using cmd **flask run**
  
- Note:- If you want that your flask app will send you mails then in app.py file remove comment symbols from line no. 36 to 41, 251,252,254
  
- Hope you might like my project...😊😊
+ 
+ #This site consists of login/signup and contact us page which is running on flask and the steps to run this is described below :
