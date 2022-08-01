@@ -1,0 +1,32 @@
+{
+    "variables":
+    {
+        "fb_url": "<your_facebook_url>",
+        "gh_url": "<your_github_url>",
+        "tw_urk": "<your_twiiter_url>",
+        "blog_name": "Sharing Point",
+        "num_posts": 3,
+        "upload_location" : "flask-blog\\static\\assets\\img"
+    },
+    "sql_conf":
+    {
+        "mysql_host": "localhost",
+        "mysql_user": "root",
+        "mysql_password": "",
+        "mysql_db": "flask_blog",
+        "mysql_port": 3306
+    },
+    "smtp":
+    {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": "25",
+        "smtp_user": "<your_email>",
+        "smtp_pass": "your_password"
+    },
+    "login":
+    {
+        "user": "admin",
+        "passwd": "admin"
+    }
+    
+ }
